@@ -1,0 +1,31 @@
+mango 20
+apple 23
+oranges 28
+pen 29
+bat 29
+cat 38
+dog 50
+elephant 390
+fish 89
+goat
+hen 90
+ignit 39
+joker 90
+kamal 90
+laxman 89
+mnaoj 99
+prince 18
+queen 16
+raja 29
+sun 640000
+tuesday 2
+uranium 234
+war 1946
+x-ray cure treatment 3500
+youth future of nation 2030
+zeal do something which make you diifferent from other
+amellon 
+cmellon
+ demellon
+
+
